@@ -1,0 +1,28 @@
+main:
+  - title: "🇸🇪 Sweden"
+    authors: "Stockholm"
+    #conference_short: "Sweden"
+    conference: "2022-2024"
+    pdf: "./assets/files/Stockholm.pdf"
+    image: "./assets/img/stockholm2.jpg"
+
+  - title: "🇩🇪 Germany"
+    authors: "Berlin, Nuremberg and Augsburg"
+    #conference_short: "Germany"
+    conference: "2023"
+    pdf: "./assets/files/Germany.pdf"
+    image: "./assets/img/berlin.jpg"
+
+  - title: "🇦🇹 Austria"
+    authors: "Vienna"
+    #conference_short: "Austria"
+    conference: "2023"
+    pdf: "./assets/files/Austria.pdf"
+    image: "./assets/img/vienna1.jpg"
+
+  - title: "🇭🇺 Hungary"
+    authors: "Budapest"
+    #conference_short: "Hungary"
+    conference: "2023"
+    pdf: "./assets/files/Hungary.pdf"
+    image: "./assets/img/hungary.jpg"
