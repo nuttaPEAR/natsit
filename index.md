@@ -7,7 +7,7 @@ layout: homepage
 I am a civil engineer with five years experience, and I recently earned an M.Sc. in Transport and Geoinformation Technology from KTH Royal Institute of Technology, Stockholm, Sweden. 
 My strong background in civil engineering has equipped me with skills in problem-solving, systematic thinking, and critical analysis.
 
-My interests include transport data analysis, AI and machine learning applications in transport, traffic planning, services, and operations. I am passionate about promoting public and road transport, improving systems and accessibility, and advancing transport equity.
+My interests include transport data analysis, AI and machine learning in transport, disruption management for multimodal transport, and traffic planning services and operations. I am passionate about promoting public and road transport to be more sustainable, equitable, and safer, while also maintaining quality and ensuring cost-effective operations.
 
 Living in Sweden allowed me to explore public transport systems across Europe, deepening my understanding of how cities function and inspiring my commitment to a sustainable, equitable, and safer transport future.        
 
@@ -15,6 +15,7 @@ Living in Sweden allowed me to explore public transport systems across Europe, d
 
 ## News
 
+- **[Oct. 2024]** Our paper was accepted for presentation in Transport Research Board Annual Meeting 2025 (TRBAM25).
 - **[Aug. 2024]** We submitted our paper to a conference, Transportforum 2025 by the Swedish National Road and Transport Research Institute (VTI).
 - **[Aug. 2024]** My degree certificate was issued, and the degree project has been published on DiVa Portal.
 - **[Jul. 2024]** We submitted our paper to Transport Research Board Annual Meeting 2025 (TRBAM25) for oral presentation.
