@@ -15,7 +15,7 @@ Living in Sweden allowed me to explore public transport systems across Europe, d
 
 ## News
 
-- **[Oct. 2024]** Our paper was accepted for presentation in Transport Research Board Annual Meeting 2025 (TRBAM25).
+- **[Oct. 2024]** Our paper is accepted for presentation in Transport Research Board Annual Meeting 2025 (TRBAM25).
 - **[Aug. 2024]** We submitted our paper to a conference, Transportforum 2025 by the Swedish National Road and Transport Research Institute (VTI).
 - **[Aug. 2024]** My degree certificate was issued, and the degree project has been published on DiVa Portal.
 - **[Jul. 2024]** We submitted our paper to Transport Research Board Annual Meeting 2025 (TRBAM25) for oral presentation.
