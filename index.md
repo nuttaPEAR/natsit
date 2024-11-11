@@ -1,15 +1,13 @@
----
+recent---
 layout: homepage
 ---
 
 ## About Me
 
-I am a civil engineer with five years experience, and I recently earned an M.Sc. in Transport and Geoinformation Technology from KTH Royal Institute of Technology, Stockholm, Sweden. 
-My strong background in civil engineering has equipped me with skills in problem-solving, systematic thinking, and critical analysis.
+I am a recent graduate with a master's degree in Transport and Geoinformation Technology from KTH Royal Institute of Technology, Stockholm, Sweden. 
+My studies focused on transport operations and services, data analytics and the application of AI in transport, including machine learning and model training tailored to transport data. My interests include transport data analysis, disruption management for multimodal transport, and improving transport system and design, promoting public and road transport to be more sustainable, equitable, and safer, while also maintaining quality and ensuring cost-effective operations. I excel in project-based work, having collaborated with my peers on various projects to address real-world challenges. My background in civil engineering has strenghened my skills in logical thinking and problem-solving.
 
-My interests include transport data analysis, AI and machine learning in transport, disruption management for multimodal transport, and traffic planning services and operations. I am passionate about promoting public and road transport to be more sustainable, equitable, and safer, while also maintaining quality and ensuring cost-effective operations.
-
-Living in Sweden allowed me to explore public transport systems across Europe, deepening my understanding of how cities function and inspiring my commitment to a sustainable, equitable, and safer transport future.        
+Living in Sweden allowed me to explore public transport systems across Europe, deepening my understanding of how cities function and inspiring my commitment to a more sustainable transport future.        
 
 {% include_relative _includes/education.md %}
 
