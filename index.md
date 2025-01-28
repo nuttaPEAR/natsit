@@ -14,6 +14,7 @@ I excel in project-based work, having collaborated with my peers during my time 
 
 ## News
 
+- **[Jan. 2025]** I presented 'A Smart-card Based Analysis of During and Post-Disruption Impacts on Public Transport Passengers' Travel Pattern in Transport Research Board Annual Meeting 2025 at Walter E. Washington Convention Center 
 - **[Nov. 2024]** The paper is accepted for presentation at Transportforum 2025 in Linköping, Sweden
 - **[Oct. 2024]** The paper is accepted for presentation at the 2025 Transport Research Board Annual Meeting in Washington, DC.
 - **[Aug. 2024]** We submitted our paper to a conference, Transportforum 2025 by the Swedish National Road and Transport Research Institute (VTI).
