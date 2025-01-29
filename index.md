@@ -16,6 +16,12 @@ I am second to none, and I am willing to devote my time and skills to help creat
 
 ## News
 
+<div class="news-photos">
+  <img src="/assets/images/TRB1.jpg" alt="The TRB People" style="width:30%; margin-right: 10px;">
+  <img src="/assets/images/TRB2.jpg" alt="Me The Presenter" style="width:30%; margin-right: 10px;">
+  <img src="/assets/images/TRB3.jpg" alt="The Creativity" style="width:30%;">
+</div>
+
 - **[Jan. 2025]** I presented 'A Smart-card Based Analysis of During and Post-Disruption Impacts on Public Transport Passengers' Travel Pattern in Transport Research Board Annual Meeting 2025 at Walter E. Washington Convention Center 
 - **[Nov. 2024]** The paper is accepted for presentation at Transportforum 2025 in Linköping, Sweden
 - **[Oct. 2024]** The paper is accepted for presentation at the 2025 Transport Research Board Annual Meeting in Washington, DC.
