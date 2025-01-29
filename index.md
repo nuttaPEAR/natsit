@@ -10,7 +10,7 @@ I am particularly interested in transport and urban mobility, such as leveraging
 
 I excel in project-based work, having collaborated with my peers during my time in Sweden on various projects (written below under School Projects). My background in civil engineering has strengthened my skills in logical thinking, problem-solving, and technical expertise. Additionally, my work experience has helped me developed strong skills in cross-sector collaboration, designing methodologies, and effectively communicating solutions to stakeholders.        
 
-I am second to none, and I am willing to devote my time and skills to help create a more sustainable future for us now and for next generations.  
+I am second to none, and I am willing learn more to devote my time and skills to help create a more sustainable future for us now and for next generations.  
 
 {% include_relative _includes/education.md %}
 
