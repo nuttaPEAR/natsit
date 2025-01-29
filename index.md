@@ -17,9 +17,9 @@ I am second to none, and I am willing learn more to devote my time and skills to
 ## News
 
 <div class="news-photos">
-  <img src="mywebsite/assets/img/TRB1.jpg" alt="The TRB People" style="width:30%; margin-right: 15px;">
-  <img src="mywebsite/assets/img/TRB2.jpg" alt="Me The Presenter" style="width:30%; margin-right: 15px;">
-  <img src="mywebsite/assets/img/TRB3.jpg" alt="The Creativity" style="width:30%; margin-right: 15px;">
+  <img src="assets/img/TRB1.jpg" alt="The TRB People" style="width:30%; margin-right: 10px;">
+  <img src="assets/img/TRB2.jpg" alt="Me The Presenter" style="width:30%; margin-right: 10px;">
+  <img src="assets/img/TRB3.jpg" alt="The Creativity" style="width:30%; margin-right: 10px;">
 </div>
 
 - **[Jan. 2025]** I presented 'A Smart-card Based Analysis of During and Post-Disruption Impacts on Public Transport Passengers' Travel Pattern in Transport Research Board Annual Meeting 2025 at Walter E. Washington Convention Center 
