@@ -4,11 +4,13 @@ layout: homepage
 
 ## About me
 
-I recently earned a master’s degree in Transport and Geoinformation Technology from KTH Royal Institute of Technology in Stockholm, Sweden. My studies focused on solving real-world challenges in transport and urban mobility project in Europe. 
+I recently earned a master’s degree in Transport and Geoinformation Technology from KTH Royal Institute of Technology in Stockholm, Sweden. My studies focused on solving real-world challenges in transport and urban mobility projects in Europe and some other countries. 
 
-I am particularly interested in transport and urban mobility, such as leveraging transport data analysis to assist traffic planners in decision-making processes related to urban mobility and land use. I am also passionate about managing disruptions in multimodal transport systems and enhancing service and operational design to better serve residents. My ultimate goal is to promote sustainable cities with efficient public and road transport systems, and beyond.
+I am particularly interested in transport and urban mobility, such as leveraging transport data analysis to assist traffic planners in decision-making processes related to urban mobility and land use. I am also passionate about managing disruptions in multimodal transport systems and enhancing service and operational design to better serve people. My ultimate goal is to promote sustainable cities with efficient public and road transport systems, and beyond.
 
-I excel in project-based work, having collaborated with my peers during my time in Sweden on various projects to address real-world challenges. My background in civil engineering has strengthened my skills in logical thinking, problem-solving, and technical expertise. Additionally, my work experience has helped me developed strong skills in cross-sector collaboration, designing methodologies, and effectively communicating solutions to stakeholders.        
+I excel in project-based work, having collaborated with my peers during my time in Sweden on various projects (written below under School Project). My background in civil engineering has strengthened my skills in logical thinking, problem-solving, and technical expertise. Additionally, my work experience has helped me developed strong skills in cross-sector collaboration, designing methodologies, and effectively communicating solutions to stakeholders.        
+
+I am second to none, and I am willing to devote my time and skills to help create a more sustainable future for us now and for next generations.  
 
 {% include_relative _includes/education.md %}
 
