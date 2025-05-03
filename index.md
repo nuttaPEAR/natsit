@@ -4,7 +4,7 @@ layout: homepage
 
 ## About me
 
-Enthusiastic graduate student with a Master’s degree in Transport and Geoinformation Technology from Stockholm,Sweden, and proven success in utilising transport data analytics to assess the impact of disruptions on passenger travel patterns. Demonstrates strong problem-solving abilities and experience in strategic planning and client relationship management. Actively seeking a challenging role in the sustainable transport sector. 
+Enthusiastic graduate student with a Master’s degree in Transport and Geoinformation Technology from Stockholm, Sweden, and proven success in utilising transport data analytics to assess the impact of disruptions on passenger travel patterns. Demonstrates strong problem-solving abilities and experience in strategic planning and client relationship management. Actively seeking a challenging role in the sustainable transport sector. 
 
 I am particularly interested in transport planning and urban mobility, such as leveraging transport data analysis to assist traffic planners in decision-making processes related to urban mobility and land use. I am also passionate about managing disruptions in multimodal transport systems and enhancing service and operational design to better serve people. My ultimate goal is to promote sustainable cities with efficient public and road transport systems.        
 
