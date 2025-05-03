@@ -12,9 +12,6 @@ I am particularly interested in transport planning and urban mobility, such as l
 
 ## News
 
-<h3>Presentation Slides</h3>
-<p>View the presentation slides from my January 2025 presentation: <a href="assets/NuttaTRBAM-1525-01953">Download PDF</a></p>
-
 <div class="news-photos">
   <img src="assets/img/TRB1.jpg" alt="The TRB People" style="width:30%; margin-right: 15px;">
   <img src="assets/img/TRB2.jpg" alt="Me The Presenter" style="width:30%; margin-right: 15px;">
