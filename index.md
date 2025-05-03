@@ -4,11 +4,9 @@ layout: homepage
 
 ## About me
 
-I recently earned a master’s degree in Transport and Geoinformation Technology from KTH Royal Institute of Technology in Stockholm, Sweden. My studies focused on solving real-world challenges in transport and urban mobility projects in Europe and some other countries. 
+Enthusiastic graduate student with a Master’s degree in Transport and Geoinformation Technology Stockholm,Sweden, and proven success in utilising transport data analytics to assess the impact of disruptions on passenger travel patterns. Demonstrates strong problem-solving abilities and experience in strategic planning and client relationship management. Actively seeking a challenging role in the sustainable transport sector. 
 
-I am particularly interested in transport and urban mobility, such as leveraging transport data analysis to assist traffic planners in decision-making processes related to urban mobility and land use. I am also passionate about managing disruptions in multimodal transport systems and enhancing service and operational design to better serve people. My ultimate goal is to promote sustainable cities with efficient public and road transport systems, and beyond.
-
-I excel in project-based work, having collaborated with my peers during my time in Sweden on various projects (written below under School Projects). My background in civil engineering has strengthened my skills in logical thinking, problem-solving, and technical expertise. Additionally, my work experience has helped me developed strong skills in cross-sector collaboration, designing methodologies, and effectively communicating solutions to stakeholders.        
+I am particularly interested in transport planning and urban mobility, such as leveraging transport data analysis to assist traffic planners in decision-making processes related to urban mobility and land use. I am also passionate about managing disruptions in multimodal transport systems and enhancing service and operational design to better serve people. My ultimate goal is to promote sustainable cities with efficient public and road transport systems.        
 
 {% include_relative _includes/education.md %}
 
