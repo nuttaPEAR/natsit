@@ -4,9 +4,7 @@ layout: homepage
 
 ## About me
 
-Enthusiastic and driven graduate with a Master’s degree in Transport and Geoinformation Technology from Stockholm, Sweden, with demonstrated expertise in transport data analytics, particularly in assessing the impact of disruptions on passenger travel patterns. Equipped with a strong background in civil engineering and experience in infrastructure and project management, I bring proven problem-solving skills and a collaborative mindset to multidisciplinary teams. 
-
-I am interested in transport and urban planning, with a motivation to contribute to the development of sustainable, safe, and efficient cities through smarter transport systems and resilient infrastructure.        
+Master’s graduate in Transport and Geoinformation Technology, Sweden, with a Civil Engineering background and five years experience delivering major railway infrastructure projects, including track duplication and LNG terminal construction. Skilled in quality control, construction drawings, project monitoring, and multidisciplinary coordination. Proficient in transport planning and data analysis (AFC, AVL, GTFS). Presented Master's thesis at TEB 2025 in Washington D.C., analysing multimodal passenger impacts of an unplanned rail disruption in Stockholm. Passionate about advancing sustainable and efficient transport systems.         
 
 {% include_relative _includes/education.md %}
 
